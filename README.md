@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Discord-View#8989-red)
 
 <p align="left">
-   <a href="https://discord.gg/fJSEG3uaBq" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=View&show_icons=true&bg_color=00,de0021,de0021&title_color=fff&text_color=fff" alt="View"/>
+   <a href="https://discord.gg/fJSEG3uaBq" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=ViewTyZ&show_icons=true&bg_color=00,de0021,de0021&title_color=fff&text_color=fff" alt="View"/>
 </p>
 
 <h2 align="center">Skill</h2>
