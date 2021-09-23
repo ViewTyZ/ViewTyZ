@@ -12,4 +12,4 @@
 
 <h2 align="center">Skill</h2>
 
-<p align="left"> <a href="https://discord.gg/fJSEG3uaBq" target="_blank"> <img src="https://cdn.discordapp.com/attachments/876841802324402186/886364473508646912/1200px-Lua-Logo.svg.png" alt="azure" width="40" height="40"/> </a> <a href="https://discord.gg/fJSEG3uaBq" target="_blank"> <img src="https://img2.thaipng.com/20180624/ygl/kisspng-php-computer-icons-logo-filename-extension-php-logo-5b3022cdbb7a50.1988404515298812937679.jpg" alt="azure" width="40" height="40"/> </p>
+<p align="left"> </a> <a href="https://discord.gg/fJSEG3uaBq" target="_blank"> <img src="https://img2.thaipng.com/20180624/ygl/kisspng-php-computer-icons-logo-filename-extension-php-logo-5b3022cdbb7a50.1988404515298812937679.jpg" alt="azure" width="40" height="40"/> </p>
