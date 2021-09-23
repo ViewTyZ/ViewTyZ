@@ -1,4 +1,4 @@
-<img align='left' src='https://cdn.discordapp.com/attachments/879000155469262938/890540526435172392/profie.gif' width='20%'>
+<img align='left' src='https://cdn.discordapp.com/avatars/716081015734403092/a_978542c581aa635087b15015ddd90f12.gif?size=4096' width='20%'>
 
 # View
 **Discord: View#8989**
@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Discord-View#8989-red)
 
 <p align="left">
-   <img align="center" href="https://discord.gg/fJSEG3uaBq" src="https://github-readme-stats.vercel.app/api?username=ViewTyZ&show_icons=true&bg_color=80,de0021,de0021&title_color=fff&text_color=fff" alt="View" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViewTyZ&show_icons=true&bg_color=80,de0021,de0021&title_color=fff&text_color=fff" alt="View" />
 </p>
 
 <h2 align="center">Skill</h2>
